@@ -9,6 +9,7 @@
     <center>
     	<h1>Devops Demo</h1>
     	<p> This is a demo app which will be used to demonstrate the full stack of CI CD implementation</p>
+        <p> New Version Changes</p>
         <h1 style="color:Green"> June 7 </h1>
         <h1> Change 1 </h1>
     </center>
