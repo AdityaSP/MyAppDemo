@@ -5,7 +5,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Example</title>
     </head>
-    <body bgcolor="silver">
+    <body bgcolor="white">
     <center>
     	<h1>Devops Demo</h1>
     	<p> This is a demo app which will be used to demonstrate the full stack of CI CD implementation</p>
