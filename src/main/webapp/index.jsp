@@ -10,8 +10,8 @@
     	<h1>Devops Demo</h1>
     	<p> This is a demo app which will be used to demonstrate the full stack of CI CD implementation</p>
         <p> New Version Changes</p>
-        <h1 style="color:Green"> Jul 24 </h1>
-        <h1> Change 1 </h1>
+        <h1 style="color:Red"> Jul 24 </h1>
+        <h1> Hope lives on </h1>
     </center>
         <form method="post" action="login.jsp">
             <center>
