@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: tomcat
-        image: adityaprabhakara/myappdemo:10
+        image: DOCKERUSER/IMAGENAME:BUILDNUMBER
         ports:
         - name: tomcatport
           containerPort: 8080
